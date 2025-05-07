@@ -1,6 +1,6 @@
-# Python Insights # PROJETO PYTHON INSIGHTS - ANÁLISE EXPLORATÓRIA 
+# PROJETO PYTHON INSIGHTS - ANÁLISE EXPLORATÓRIA 
 
-## BASE DE CANCELAMENTOS E INADIMPLENTES/ 800 MIL CLIENTE 
+## BASE DE CANCELAMENTOS E INADIMPLENTES/ 800 MIL CLIENTES
 
 ## Introdução
 Neste projeto, **Python Insights**, eu quis trazer um modelo real de empresas de **streaming de música**, **plataforma de educação e cursos**, **telecomunicações**, que se valem de serviço de *assinatura* para entender os principais motivos como **comportamento de churn** e também de inadimplência para entender o que levam clientes a cancelarem serviços em empresas de modelo de assinatura, como:
@@ -11,7 +11,7 @@ Neste projeto, **Python Insights**, eu quis trazer um modelo real de empresas de
 - Clubes de assinatura
 - Fintechs e apps com cobrança recorrente
 
-  Não é ficção. É exatamente o que está acontecendo com empresas que ignoram os sinais de alerta escondidos em seus próprios dados! 📊
+  Não é ficção. É exatamente o que está acontecendo com empresas que ignoram os sinais de alerta escondidos em seus próprios dados!📊
 
 
 Neste projeto, mostro um cenário real de como realizar uma análise exploratória de dados (EDA) com Python para descobrir na prática sobre o comportamento de clientes em contratos mensais, padrões de cancelamento, canais de atendimento, formas de pagamento, padrões de inadimplência e outros fatores relacionados ao projeto usando uma base fictícia de ~800 mil clientes.
